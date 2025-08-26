@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/gettsim-{{ version }}.tar.gz
-  sha256: c9a4d3080cd8b91ddffc182d625742dc6f2a326b3b53aeb6061a6a760364eadb
+  sha256: 8476b2ab7b7a2878ebe01e66011b5fa02a4ec7e7b1a08671c0bae2cfb0606ad2
 
 build:
   noarch: python
