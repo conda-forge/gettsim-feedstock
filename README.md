@@ -3,7 +3,7 @@ About gettsim-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gettsim-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/iza-institute-of-labor-economics/gettsim
+Home: https://github.com/ttsim-dev/gettsim
 
 Package license: AGPL-3.0-only
 
