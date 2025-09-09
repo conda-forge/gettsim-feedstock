@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@hmgaudecker](https://github.com/hmgaudecker/)
+* [@MImmesberger](https://github.com/MImmesberger/)
 
