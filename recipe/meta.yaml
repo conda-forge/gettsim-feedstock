@@ -23,6 +23,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
+    - ttsim-backend >=1.1.1
 
 test:
   imports:
