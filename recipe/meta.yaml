@@ -1,5 +1,5 @@
 {% set name = "gettsim" %}
-{% set version = "1.1" %}
+{% set version = "1.2" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/gettsim-{{ version }}.tar.gz
-  sha256: 034a1eca36b266a748edc277a917756a397c96c7092c505dbca32d7e366f50b0
+  sha256: 0e6c8c78f9ab932929931854477d5ef434f85e8888a2ac549b6e519860a53032
 
 build:
   noarch: python
