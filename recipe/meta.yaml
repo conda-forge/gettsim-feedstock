@@ -1,6 +1,6 @@
 {% set name = "gettsim" %}
 {% set version = "1.4.0" %}
-{% set python_min = "3.11" %}
+{% set python_min = "3.12" %}
 
 package:
   name: {{ name|lower }}
@@ -23,7 +23,9 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - ttsim-backend >=1.2
+    - jaxtyping >=0.3.11
+    - pint <0.27
+    - ttsim-backend >=1.4
 
 test:
   imports:
